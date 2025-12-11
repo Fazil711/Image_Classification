@@ -1,4 +1,4 @@
-# 🐶 Cat vs. Dog Classifier
+# 🐶 Cat vs. Dog Classifier 🐱
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-orange?style=for-the-badge&logo=pytorch)
