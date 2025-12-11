@@ -11,9 +11,8 @@ A Full-Stack AI Web Application that classifies images of Cats and Dogs with hig
 
 ## 📸 Demo
 
-![Demo Screenshot](https://via.placeholder.com/800x400?text=Upload+Your+Screenshot+Here)
-
-> <img src="https://github.com/user-attachments/assets/e578b2e2-e7a5-4217-914b-dcc5585817ba" width="600" alt="Demo Screenshot">
+> <img src="https://github.com/user-attachments/assets/e578b2e2-e7a5-4217-914b-dcc5585817ba" width="500" alt="Image Cat", height="700">
+> <img width="500" height="700" alt="Image Dog" src="https://github.com/user-attachments/assets/cf94ea6c-22c4-4d22-9925-6934dd3faf1c" />
 ---
 
 ## 🚀 Features
