@@ -42,24 +42,29 @@ cat_dog_web_app/
 ├── main.py
 ├── requirements.txt
 └── README.md
+```
 
 ## ⚡ Installation & Setup
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/yourusername/cat-dog-classifier.git](https://github.com/yourusername/cat-dog-classifier.git)
 cd cat-dog-classifier
+```
 
 ### 2. Install Dependencies
 ```Bash
 pip install torch torchvision fastapi uvicorn python-multipart pillow
+```
 
 ### 3. Run the App
 ```Bash
 uvicorn main:app --reload
+```
 
 ### 4. Open in Browser
 ```
 Go to: http://127.0.0.1:8000
+```
 
 ## 🧠 Model Training Details
 The model was trained on Google Colab using a standard CNN architecture:
